@@ -1,0 +1,26 @@
+const Productos = [
+    {
+      id: '1',
+      name: 'Crazy Gon',
+      description: 'Adentro:Camarón, empanizado con salsa spicy, aguacate y queso crema. Afuera: salmón sellado.',
+      price: 7,
+    },
+    {
+      id: '2',
+      name: 'Dra Gon',
+      description: 'Adentro:Camarón tempura, queso crema, zanahoria dulce picante, chiles toreados. Afuera: aguacate.',
+      price: 5.5,
+    },
+    {
+      id: '3',
+      name: 'Maji Gon',
+      description: 'Adentro:Kanikama, chiles toreados, zanahoria dulce, tampico, aguacate, queso crema. Afuera: queso manchego empanizado.',
+      price: 6.99,
+    },
+    {
+      id: '4',
+      name: 'Orochi gon',
+      description: 'Adentro:kanikama, aguacate, queso philadelphia, kakiage, chiles toreados y tampico Afuera: Atun y aguacate.',
+      price: 6.99,
+    },
+  ];
